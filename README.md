@@ -1,4 +1,4 @@
-# OC_Projet5
+# OC_Projet6
 Classifiez automatiquement des biens de consommation pour un site d'e-commerce.
 
 ## Contexte
