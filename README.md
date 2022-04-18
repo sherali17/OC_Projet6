@@ -20,3 +20,8 @@ Consignes :
 Afin d’extraire les features image, il sera nécessaire de mettre en œuvre :
 - un algorithme de type SIFT / ORB / SURF,
 - un algorithme de type CNN Transfer Learning.
+
+## Données 
+lien vers les données :
+https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip
+
