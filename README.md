@@ -1,5 +1,5 @@
 # OC_Projet5
-Classifiez automatiquement des biens de consommation
+Classifiez automatiquement des biens de consommation pour un site d'e-commerce.
 
 ## Contexte
 L’entreprise "Place de marché”, souhaite lancer une marketplace e-commerce.
